@@ -10,7 +10,7 @@ public class atb5XCourse extends MultiThreadingCourse{
  atb5XCourse(String Feature)
  {
      this.newFeature = Feature;
-     System.out.println("Feature is :" + this.newFeature  + " authorname :" + this.author );
+     System.out.println("Feature is :" + this.newFeature );
  }
 
 
